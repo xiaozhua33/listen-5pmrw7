@@ -4,13 +4,12 @@
   <title>小贺的 AI 学习</title>
   <link>https://xiaozhua33.github.io/listen-5pmrw7/ai/</link>
   <atom:link href="https://xiaozhua33.github.io/listen-5pmrw7/ai/feed.xml" rel="self" type="application/rss+xml"/>
-  <description>用简单的中文，讲清楚 AI 是怎么回事。个人学习音频。</description>
+  <description>用简单的中文，讲清楚 AI 是怎么学习、怎么工作的。每集几分钟，从基本原理讲起，适合想入门 AI 的普通听众。</description>
   <language>zh-cn</language>
-  <itunes:author>学习助手</itunes:author>
   <itunes:owner><itunes:name>小贺</itunes:name></itunes:owner>
   <itunes:author>小贺</itunes:author>
   <itunes:explicit>false</itunes:explicit>
-  <itunes:category text="Education"/>
+  <itunes:category text="Technology"/>
   <itunes:image href="https://xiaozhua33.github.io/listen-5pmrw7/ai/cover.png"/>
   <image><url>https://xiaozhua33.github.io/listen-5pmrw7/ai/cover.png</url><title>小贺的 AI 学习</title><link>https://xiaozhua33.github.io/listen-5pmrw7/ai/</link></image>
   <itunes:type>episodic</itunes:type>
