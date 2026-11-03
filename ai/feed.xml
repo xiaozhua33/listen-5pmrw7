@@ -7,13 +7,13 @@
   <description>用简单的中文，讲清楚 AI 是怎么回事。个人学习音频。</description>
   <language>zh-cn</language>
   <itunes:author>学习助手</itunes:author>
-  <itunes:owner><itunes:name>学习助手</itunes:name></itunes:owner>
+  <itunes:owner><itunes:name>小贺</itunes:name></itunes:owner>
+  <itunes:author>小贺</itunes:author>
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Education"/>
   <itunes:image href="https://xiaozhua33.github.io/listen-5pmrw7/ai/cover.png"/>
   <image><url>https://xiaozhua33.github.io/listen-5pmrw7/ai/cover.png</url><title>小贺的 AI 学习</title><link>https://xiaozhua33.github.io/listen-5pmrw7/ai/</link></image>
   <itunes:type>episodic</itunes:type>
-  <itunes:block>Yes</itunes:block>
   <item>
     <title>11月3日 书的精华：从0到1</title>
     <description>彼得·蒂尔《从0到1》精华：避开竞争、好垄断的四个特征、从小市场做起、相信秘密，以及新手能带走的四个问题</description>
