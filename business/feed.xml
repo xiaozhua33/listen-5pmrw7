@@ -14,6 +14,16 @@
   <image><url>https://xiaozhua33.github.io/listen-5pmrw7/business/cover.png</url><title>小贺的商业入门</title><link>https://xiaozhua33.github.io/listen-5pmrw7/business/</link></image>
   <itunes:type>episodic</itunes:type>
   <itunes:block>Yes</itunes:block>
-
+  <item>
+    <title>11月3日 商业入门：再开开眼，6个商业模式</title>
+    <description>六个不靠复杂技术的小生意：招聘板、机票邮件、照片手绘、拍卖定价、赞助加教学、内容社区，各自怎么赚钱</description>
+    <itunes:summary>六个不靠复杂技术的小生意：招聘板、机票邮件、照片手绘、拍卖定价、赞助加教学、内容社区，各自怎么赚钱</itunes:summary>
+    <enclosure url="https://xiaozhua33.github.io/listen-5pmrw7/business/episodes/ep001.mp3" length="4524908" type="audio/mpeg"/>
+    <guid isPermaLink="false">business-ep001</guid>
+    <pubDate>Tue, 03 Nov 2026 07:52:41 -0000</pubDate>
+    <itunes:duration>00:09:26</itunes:duration>
+    <itunes:episode>1</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
