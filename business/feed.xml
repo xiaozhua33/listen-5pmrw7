@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>小贺的商业入门</title>
+  <link>https://xiaozhua33.github.io/listen-5pmrw7/business/</link>
+  <atom:link href="https://xiaozhua33.github.io/listen-5pmrw7/business/feed.xml" rel="self" type="application/rss+xml"/>
+  <description>用听的方式认识各种赚钱的商业模式和好书精华，给新手</description>
+  <language>zh-cn</language>
+  <itunes:author>学习助手</itunes:author>
+  <itunes:owner><itunes:name>学习助手</itunes:name></itunes:owner>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:category text="Education"/>
+  <itunes:image href="https://xiaozhua33.github.io/listen-5pmrw7/business/cover.png"/>
+  <image><url>https://xiaozhua33.github.io/listen-5pmrw7/business/cover.png</url><title>小贺的商业入门</title><link>https://xiaozhua33.github.io/listen-5pmrw7/business/</link></image>
+  <itunes:type>episodic</itunes:type>
+  <itunes:block>Yes</itunes:block>
+
+</channel>
+</rss>
