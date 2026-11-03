@@ -64,6 +64,19 @@
    "script": "scripts/book-2026-11-03-normal-accidents.md",
    "season": 4,
    "voice": "zh-CN-XiaoyiNeural"
+  },
+  {
+   "n": 6,
+   "title": "11月4日 人物：哈萨比斯，从象棋神童到诺贝尔奖",
+   "file": "ep006.mp3",
+   "bytes": 5885804,
+   "seconds": 735.696,
+   "ts": 1793733078,
+   "guid": "ai-ep006",
+   "summary": "从象棋神童、游戏设计师、脑科学博士到DeepMind和诺贝尔奖，讲哈萨比斯的人生故事和他对人工智能与科学的看法。",
+   "voice": "zh-CN-YunyangNeural",
+   "season": 5,
+   "script": "scripts/hassabis.md"
   }
  ]
 }
