@@ -90,6 +90,19 @@
    "voice": "zh-CN-YunxiNeural",
    "season": 7,
    "script": "scripts/papers-please.md"
+  },
+  {
+   "n": 8,
+   "title": "游戏世界02｜《星际拓荒》：二十二分钟后，太阳就要爆炸",
+   "file": "ep008.mp3",
+   "bytes": 4894316,
+   "seconds": 611.76,
+   "ts": 1793738628,
+   "guid": "ai-ep008",
+   "summary": "一个困在二十二分钟时间循环里的小太阳系，知识是唯一的进度。讲清它的玩法、会动的星球、消失的古老文明、结局的意义，以及它从学生毕业作品到 BAFTA 年度最佳游戏的历程。",
+   "voice": "zh-CN-YunjianNeural",
+   "season": 7,
+   "script": "scripts/outer-wilds.md"
   }
  ]
 }
