@@ -15,6 +15,17 @@
   <itunes:type>episodic</itunes:type>
   <itunes:block>Yes</itunes:block>
   <item>
+    <title>11月3日 商业入门：再开开眼，6个商业模式</title>
+    <description>六个不靠复杂技术的小生意：招聘板、机票邮件、照片手绘、拍卖定价、赞助加教学、内容社区，各自怎么赚钱</description>
+    <itunes:summary>六个不靠复杂技术的小生意：招聘板、机票邮件、照片手绘、拍卖定价、赞助加教学、内容社区，各自怎么赚钱</itunes:summary>
+    <enclosure url="https://xiaozhua33.github.io/listen-5pmrw7/ai/episodes/ep003.mp3" length="4524908" type="audio/mpeg"/>
+    <guid isPermaLink="false">ai-ep003</guid>
+    <pubDate>Tue, 03 Nov 2026 07:56:32 -0000</pubDate>
+    <itunes:duration>00:09:26</itunes:duration>
+    <itunes:episode>3</itunes:episode>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>LeCun 的新论文：模型越大越好吗？</title>
     <description>根据 2026 年 11 月 X 上的一篇帖子：LeCun 与 Randall Balestriero 的研究称，用同一事物的两种样子（照片和说明文字）训练，比猜下一个字快得多地达到理解（帖子引用 2160 万对 9 亿个例子；1.09 亿参数文字模型比 720 亿参数大模型更接近图像模型的表示）。数字来自帖子，未与原论文核对；规模从来不重要是发帖人的说法。结论：越大越好尚无定论。</description>
     <itunes:summary>根据 2026 年 11 月 X 上的一篇帖子：LeCun 与 Randall Balestriero 的研究称，用同一事物的两种样子（照片和说明文字）训练，比猜下一个字快得多地达到理解（帖子引用 2160 万对 9 亿个例子；1.09 亿参数文字模型比 720 亿参数大模型更接近图像模型的表示）。数字来自帖子，未与原论文核对；规模从来不重要是发帖人的说法。结论：越大越好尚无定论。</itunes:summary>
