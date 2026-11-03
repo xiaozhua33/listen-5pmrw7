@@ -30,37 +30,40 @@
    "n": 3,
    "title": "11月3日 商业入门：再开开眼，6个商业模式",
    "file": "ep003.mp3",
-   "bytes": 4524908,
-   "seconds": 565.584,
+   "bytes": 4337516,
+   "seconds": 542.16,
    "ts": 1793692592,
    "guid": "ai-ep003",
    "summary": "六个不靠复杂技术的小生意：招聘板、机票邮件、照片手绘、拍卖定价、赞助加教学、内容社区，各自怎么赚钱",
    "script": "scripts/biz-2026-11-03-sixmodels.md",
-   "season": 4
+   "season": 4,
+   "voice": "zh-CN-XiaoyiNeural"
   },
   {
    "n": 4,
    "title": "11月3日 书的精华：从0到1",
    "file": "ep004.mp3",
-   "bytes": 5419820,
-   "seconds": 677.448,
+   "bytes": 5324972,
+   "seconds": 665.592,
    "ts": 1793692608,
    "guid": "ai-ep004",
    "summary": "彼得·蒂尔《从0到1》精华：避开竞争、好垄断的四个特征、从小市场做起、相信秘密，以及新手能带走的四个问题",
    "script": "scripts/biz-2026-11-03-zerotoone.md",
-   "season": 4
+   "season": 4,
+   "voice": "zh-CN-XiaoxiaoNeural"
   },
   {
    "n": 5,
    "title": "11月3日 书的精华：正常事故",
    "file": "ep005.mp3",
-   "bytes": 5006444,
-   "seconds": 625.776,
+   "bytes": 5156396,
+   "seconds": 644.52,
    "ts": 1793693805,
    "guid": "ai-ep005",
    "summary": "佩罗《正常事故》精华：交互复杂与紧密耦合、三里岛案例、高可靠性组织的批评，以及对运维和事故响应的四点启发",
    "script": "scripts/book-2026-11-03-normal-accidents.md",
-   "season": 4
+   "season": 4,
+   "voice": "zh-CN-XiaoyiNeural"
   }
  ]
 }
