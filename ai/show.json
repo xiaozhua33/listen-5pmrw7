@@ -224,6 +224,21 @@
    "old_title": "游戏世界 03｜《奥伯拉丁的回归》：一块怀表，六十个人的命运",
    "season": 7,
    "script": "scripts/obra-dinn.md"
+  },
+  {
+   "n": 16,
+   "title": "书的精华 03｜《金钱心理学》：会赚钱，不如会守住",
+   "file": "ep016.mp3",
+   "bytes": 5664236,
+   "seconds": 708.0,
+   "ts": 1793793484,
+   "guid": "ai-ep016",
+   "summary": "摩根·豪泽尔的《金钱心理学》：复利与留在场上、知道够了、给意外留余地、财富是看不见的、钱最大的价值是自由，书中的故事，以及对这本书的主要批评。",
+   "voice": "zh-CN-YunyangNeural",
+   "hook": "《金钱心理学》：会赚钱，不如会守住",
+   "old_title": "书的精华 03｜《金钱心理学》：会赚钱，不如会守住",
+   "season": 5,
+   "script": "scripts/psychology-of-money.md"
   }
  ]
 }
