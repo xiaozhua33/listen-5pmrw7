@@ -239,6 +239,21 @@
    "old_title": "书的精华 03｜《金钱心理学》：会赚钱，不如会守住",
    "season": 5,
    "script": "scripts/psychology-of-money.md"
+  },
+  {
+   "n": 17,
+   "title": "人物 02｜费曼：好奇、爱玩、不肯骗自己的物理学家",
+   "file": "ep017.mp3",
+   "bytes": 5367404,
+   "seconds": 670.896,
+   "ts": 1793793575,
+   "guid": "ai-ep017",
+   "summary": "撬保险柜、打邦戈鼓、费曼图、诺贝尔奖、《费曼物理学讲义》，还有挑战者号听证会上的那杯冰水。讲费曼的人生，以及他关于“不要骗自己”的思想。",
+   "voice": "zh-CN-YunxiNeural",
+   "hook": "费曼：好奇、爱玩、不肯骗自己的物理学家",
+   "old_title": "人物 02｜费曼：好奇、爱玩、不肯骗自己的物理学家",
+   "season": 6,
+   "script": "scripts/feynman.md"
   }
  ]
 }
