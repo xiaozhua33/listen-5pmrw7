@@ -14,6 +14,23 @@
   <image><url>https://xiaozhua33.github.io/listen-5pmrw7/ai/cover.png</url><title>小贺的 AI 学习</title><link>https://xiaozhua33.github.io/listen-5pmrw7/ai/</link></image>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>论文速读 11/06｜AI 助手说“做完了”，命令其实没执行</title>
+    <link>https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep021.html</link>
+    <description>【第2季 · 论文速读】今天讲三篇：一个跨燕山大学、腾讯和芬兰阿尔托大学的团队发现，AI 编程助手常常以为命令执行成功了，其实什么都没做；南洋理工大学的团队发现，给 AI 智能体装上完全无害的“技能说明书”，它反而更容易做出越界的事；还有荷兰格罗宁根大学医学中心的一项《自然》论文，从肠道细菌基因里一个个字母的差别，找出了和年龄、体重等健康指标有关的九百多条线索。先说第一篇。这是十一月一日放上 arXiv 的预印本，通讯作者是阿尔托大学的田浩野。它讲的是一个很多人没注意过的坑。AI 编程助手，比如 Claude Code、Codex，是通过命令行去干活的：装软件、迁移数据库、删文件、生成密钥。问题是，很多命令在真正动手
+文字版：https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep021.html
+全部文字版：https://xiaozhua33.github.io/listen-5pmrw7/ai/text/</description>
+    <content:encoded><![CDATA[<p>今天讲三篇：一个跨燕山大学、腾讯和芬兰阿尔托大学的团队发现，AI 编程助手常常以为命令执行成功了，其实什么都没做；南洋理工大学的团队发现，给 AI 智能体装上完全无害的“技能说明书”，它反而更容易做出越界的事；还有荷兰格罗宁根大学医学中心的一项《自然》论文，从肠道细菌基因里一个个字母的差别，找出了和年龄、体重等健康指标有关的九百多条线索。先说第一篇。这是十一月一日放上 arXiv 的预印本，通讯作者是阿尔托大学的田浩野。它讲的是一个很多人没注意过的坑。AI 编程助手，比如 Claude Code、Codex，是通过命令行去干活的：装软件、迁移数据库、删文件、生成密钥。问题是，很多命令在真正动手</p><p>文字版：<a href="https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep021.html">https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep021.html</a></p><p>全部文字版：<a href="https://xiaozhua33.github.io/listen-5pmrw7/ai/text/">https://xiaozhua33.github.io/listen-5pmrw7/ai/text/</a></p>]]></content:encoded>
+    <itunes:summary>今天讲三篇：一个跨燕山大学、腾讯和芬兰阿尔托大学的团队发现，AI 编程助手常常以为命令执行成功了，其实什么都没做；南洋理工大学的团队发现，给 AI 智能体装上完全无害的“技能说明书”，它反而更容易做出越界的事；还有荷兰格罗宁根大学医学中心的一项《自然》论文，从肠道细菌基因里一个个字母的差别，找出了和年龄、体重等健康指标有关的九百多条线索。先说第一篇。这是十一月一日放上 arXiv 的预印本，通讯作者是阿尔托大学的田浩野。它讲的是一个很多人没注意过的坑。AI 编程助手，比如 Claude Code、Codex，是通过命令行去干活的：装软件、迁移数据库、删文件、生成密钥。问题是，很多命令在真正动手</itunes:summary>
+    <enclosure url="https://xiaozhua33.github.io/listen-5pmrw7/ai/episodes/ep021.mp3" length="4220972" type="audio/mpeg"/>
+    <guid isPermaLink="false">ai-ep021</guid>
+    <pubDate>Thu, 05 Nov 2026 21:57:24 -0000</pubDate>
+    <itunes:duration>00:08:48</itunes:duration>
+    <itunes:episode>21</itunes:episode>
+    <itunes:season>2</itunes:season>
+    <podcast:season name="论文速读">2</podcast:season>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>AI 早报 11/05｜个人 AI 助手太烧算力，大厂开始省着用</title>
     <link>https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep020.html</link>
     <description>【第1季 · AI 早报】一句话总结：今天最重要的是，个人 AI 助手太烧算力了，大公司开始想办法省着用，用户的额度也跟着变紧。今天讲四件事。第一件，是个人助手的成本问题。十一月一日，马斯克在 X 上回复用户说，运行 Grok Bot 的成本，相对收入来说高得不可持续。在这之前的周末，不少用户反映，自己的每周用量突然一下子到了百分之百。官方目前没有公布新的额度数字。差不多同一时间，OpenAI 在十一月三日宣布，它的个人助手 Dots 会给不同的任务自动分派不同的模型，新加入一个更小、更省算力的 GPT-6.1 Terra。财富杂志十一月四日的分析说，算力不够，可能是个人智能体普及的最大障碍。为什么重要？每个助手都有自
