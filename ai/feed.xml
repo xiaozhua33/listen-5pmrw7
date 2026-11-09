@@ -14,6 +14,23 @@
   <image><url>https://xiaozhua33.github.io/listen-5pmrw7/ai/cover.png</url><title>小贺的 AI 学习</title><link>https://xiaozhua33.github.io/listen-5pmrw7/ai/</link></image>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>AI 早报 11/10｜德国托管商的 MCP 服务器被攻破</title>
+    <link>https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep034.html</link>
+    <description>【第1季 · AI 早报】一句话总结：今天最重要的是，德国一家网站托管公司，被人从它给 AI 助手用的 MCP 服务器打了进来，五十六个客户项目被攻破。今天讲四件事。第一件，是安全事故。德国托管商 Mittwald 上周六公布了经过。它做了一个 MCP 服务器，让客户把 AI 助手连到自己的网站管理后台。攻击者十月二十一日开始试探这个服务器的漏洞，二十七日注册了一个新账号，五分钟后就利用漏洞，读走了用过这个服务器的客户的会话令牌，也就是登录后系统发的一张临时通行证，拿着它就能以客户的身份操作。结果五十六个客户项目被攻破，八天后的十一月四日才被发现。公司随后关掉 MCP 服务器，作废所有令牌，暂停后台登录和远程登录好几天
+文字版：https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep034.html
+全部文字版：https://xiaozhua33.github.io/listen-5pmrw7/ai/text/</description>
+    <content:encoded><![CDATA[<p>一句话总结：今天最重要的是，德国一家网站托管公司，被人从它给 AI 助手用的 MCP 服务器打了进来，五十六个客户项目被攻破。今天讲四件事。第一件，是安全事故。德国托管商 Mittwald 上周六公布了经过。它做了一个 MCP 服务器，让客户把 AI 助手连到自己的网站管理后台。攻击者十月二十一日开始试探这个服务器的漏洞，二十七日注册了一个新账号，五分钟后就利用漏洞，读走了用过这个服务器的客户的会话令牌，也就是登录后系统发的一张临时通行证，拿着它就能以客户的身份操作。结果五十六个客户项目被攻破，八天后的十一月四日才被发现。公司随后关掉 MCP 服务器，作废所有令牌，暂停后台登录和远程登录好几天</p><p>文字版：<a href="https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep034.html">https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep034.html</a></p><p>全部文字版：<a href="https://xiaozhua33.github.io/listen-5pmrw7/ai/text/">https://xiaozhua33.github.io/listen-5pmrw7/ai/text/</a></p>]]></content:encoded>
+    <itunes:summary>一句话总结：今天最重要的是，德国一家网站托管公司，被人从它给 AI 助手用的 MCP 服务器打了进来，五十六个客户项目被攻破。今天讲四件事。第一件，是安全事故。德国托管商 Mittwald 上周六公布了经过。它做了一个 MCP 服务器，让客户把 AI 助手连到自己的网站管理后台。攻击者十月二十一日开始试探这个服务器的漏洞，二十七日注册了一个新账号，五分钟后就利用漏洞，读走了用过这个服务器的客户的会话令牌，也就是登录后系统发的一张临时通行证，拿着它就能以客户的身份操作。结果五十六个客户项目被攻破，八天后的十一月四日才被发现。公司随后关掉 MCP 服务器，作废所有令牌，暂停后台登录和远程登录好几天</itunes:summary>
+    <enclosure url="https://xiaozhua33.github.io/listen-5pmrw7/ai/episodes/ep034.mp3" length="2101868" type="audio/mpeg"/>
+    <guid isPermaLink="false">ai-ep034</guid>
+    <pubDate>Mon, 09 Nov 2026 22:39:35 -0000</pubDate>
+    <itunes:duration>00:04:23</itunes:duration>
+    <itunes:episode>34</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <podcast:season name="AI 早报">1</podcast:season>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>交易入门 11/10｜急跌后暂稳，今晚看通胀数据</title>
     <link>https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep033.html</link>
     <description>【第3季 · 交易入门】11月10日 交易入门。一句话结论：昨天急跌之后，市场今天暂时站稳，比特币和以太坊都小幅回升，但情绪还在恐惧区，大家都在等今晚的美国通胀数据。第一部分，行情。比特币现在大约七万五千美元，过去二十四小时大约涨了百分之零点七。来源是 Binance，东京时间早上七点零八分抓取。以太坊现在大约两千一百二十五美元，过去二十四小时基本持平，只涨了大约百分之零点一。来源同样是 Binance，同一时间抓取。恐贪指数是二十九，属于恐惧，比前一天的二十八略微回升。来源是 alternative.me，早上七点零八分抓取。第二部分，今天的两件大事。大事一：今晚十点半，美国公布十月通胀数据。事实是这样的。美国劳工
