@@ -539,6 +539,21 @@
    "old_title": "交易入门 11/11｜通胀超预期，比特币跌到近三个月低点",
    "season": 3,
    "script": "scripts/auto-trade-20261111070900.md"
+  },
+  {
+   "n": 37,
+   "title": "AI 早报 11/11｜Claude 开始进会议室了",
+   "file": "ep037.mp3",
+   "bytes": 1776236,
+   "seconds": 222.0,
+   "ts": 1794349506,
+   "guid": "ai-ep037",
+   "summary": "一句话总结：今天最重要的是，Anthropic 让 Claude 以参会者身份进到谷歌会议里，一边听讨论，一边做计划、开始干活。今天讲四件事。第一件，是大公司的新产品。Anthropic 十一月十日发布了 Claude Meetings。Claude 作为看得见的参会者加入 Google Meet，能在会议聊天里回答问题，从连上的工作应用里调资料，讨论时就做出计划和时间表，会后留下笔记和待办。目前是测试版，只给团队版和企业版。同一天，交互式连接器也升级了：Notion、Asana、Dropbox 等工具可以在 Claude 旁边整页打开，用你自己的账号；你让 Claude 改哪一页、哪一行，它",
+   "voice": "zh-CN-YunxiNeural",
+   "hook": "Claude 开始进会议室了",
+   "old_title": "AI 早报 11/11｜Claude 开始进会议室了",
+   "season": 1,
+   "script": "scripts/auto-ai-20261111072403.md"
   }
  ]
 }
