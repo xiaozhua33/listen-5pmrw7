@@ -14,6 +14,23 @@
   <image><url>https://xiaozhua33.github.io/listen-5pmrw7/ai/cover.png</url><title>小贺的 AI 学习</title><link>https://xiaozhua33.github.io/listen-5pmrw7/ai/</link></image>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>AI 早报 11/13｜Anthropic 实验：各带一个智能体，团队反而更差</title>
+    <link>https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep043.html</link>
+    <description>【第1季 · AI 早报】一句话总结：今天最重要的是，Anthropic 的一项实验发现，几个人各让自己的智能体去抢同一份资源，结果比交给一个总调度差得多。今天讲四件事。第一件，是智能体的做法。Anthropic 研究团队十一月十一日发文，标题叫「越合作越差」。他们搭了四个模拟场景，比如几位研究员共用一份不够用的算力预算，几个人通过各自的私人助手一起点外卖、订行程。每个人各派一个智能体、互相发消息商量，和只用一个智能体替所有人统筹相比，四个场景里都是统筹的那个赢，差距大约十到四十五个百分点。问题出在几个地方。一，人越多越没人动手：团队从四个智能体变成十六个，真正动过手的比例，有的模型从百分之六十六掉到百分之十。二，没读
+文字版：https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep043.html
+全部文字版：https://xiaozhua33.github.io/listen-5pmrw7/ai/text/</description>
+    <content:encoded><![CDATA[<p>一句话总结：今天最重要的是，Anthropic 的一项实验发现，几个人各让自己的智能体去抢同一份资源，结果比交给一个总调度差得多。今天讲四件事。第一件，是智能体的做法。Anthropic 研究团队十一月十一日发文，标题叫「越合作越差」。他们搭了四个模拟场景，比如几位研究员共用一份不够用的算力预算，几个人通过各自的私人助手一起点外卖、订行程。每个人各派一个智能体、互相发消息商量，和只用一个智能体替所有人统筹相比，四个场景里都是统筹的那个赢，差距大约十到四十五个百分点。问题出在几个地方。一，人越多越没人动手：团队从四个智能体变成十六个，真正动过手的比例，有的模型从百分之六十六掉到百分之十。二，没读</p><p>文字版：<a href="https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep043.html">https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep043.html</a></p><p>全部文字版：<a href="https://xiaozhua33.github.io/listen-5pmrw7/ai/text/">https://xiaozhua33.github.io/listen-5pmrw7/ai/text/</a></p>]]></content:encoded>
+    <itunes:summary>一句话总结：今天最重要的是，Anthropic 的一项实验发现，几个人各让自己的智能体去抢同一份资源，结果比交给一个总调度差得多。今天讲四件事。第一件，是智能体的做法。Anthropic 研究团队十一月十一日发文，标题叫「越合作越差」。他们搭了四个模拟场景，比如几位研究员共用一份不够用的算力预算，几个人通过各自的私人助手一起点外卖、订行程。每个人各派一个智能体、互相发消息商量，和只用一个智能体替所有人统筹相比，四个场景里都是统筹的那个赢，差距大约十到四十五个百分点。问题出在几个地方。一，人越多越没人动手：团队从四个智能体变成十六个，真正动过手的比例，有的模型从百分之六十六掉到百分之十。二，没读</itunes:summary>
+    <enclosure url="https://xiaozhua33.github.io/listen-5pmrw7/ai/episodes/ep043.mp3" length="2083820" type="audio/mpeg"/>
+    <guid isPermaLink="false">ai-ep043</guid>
+    <pubDate>Thu, 12 Nov 2026 22:31:26 -0000</pubDate>
+    <itunes:duration>00:04:20</itunes:duration>
+    <itunes:episode>43</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <podcast:season name="AI 早报">1</podcast:season>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>交易入门 11/13｜英伟达换帅拖累科技股，比特币跌到近三个月低点</title>
     <link>https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep042.html</link>
     <description>【第3季 · 交易入门】交易入门 11/13一句话结论：比特币又跌了一大步，到了将近三个月来的最低点，主要是被美股科技股的大跌带下去的，市场情绪还在恐惧区。先看行情。比特币过去二十四小时跌了大约百分之四，现在大约七万一千四百五十美元，这一天里最高七万四千五百多，最低七万一千二百多。来源是 Binance，东京时间十一月十三日早上七点十五分抓取。以太坊跌了大约百分之二点八，现在大约两千零一十美元，最低跌破过两千美元，到了一千九百八十美元左右。同样来自 Binance，同一时间抓取。恐贪指数是二十八，比前一天的二十九又低了一点。来源是 alternative.me，同一时间抓取。再看今天的大事：英伟达换帅，科技股带着币价
