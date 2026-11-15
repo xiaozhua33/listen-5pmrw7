@@ -14,6 +14,23 @@
   <image><url>https://xiaozhua33.github.io/listen-5pmrw7/ai/cover.png</url><title>小贺的 AI 学习</title><link>https://xiaozhua33.github.io/listen-5pmrw7/ai/</link></image>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>AI 早报 11/16｜Cursor 被攻击，源头是合作方泄露的一把钥匙</title>
+    <link>https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep054.html</link>
+    <description>【第1季 · AI 早报】一句话总结：今天最重要的是，Cursor 公布了上个月被攻击的完整经过，源头不在它自己，而是交给合作方的一把钥匙，加上智能体会话记录里没删干净的密钥。今天讲四件事。第一件，是安全事故。Cursor 十一月十三日发了调查报告。起点在模型服务商 Fireworks：Cursor 发给它的一把访问钥匙被泄露，攻击者用它复制了一个存放编程智能体会话记录的存储桶。这些记录大多来自二零二五年，属于没开隐私模式、允许用来训练的会话。其中少数记录里，有用户贴进去的密钥没被删掉，按 Cursor 的说法，受影响的客户不到万分之一。攻击者顺着这些密钥，进了 Cursor 用的几个办公工具，看到了旧代码库、部分客服
+文字版：https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep054.html
+全部文字版：https://xiaozhua33.github.io/listen-5pmrw7/ai/text/</description>
+    <content:encoded><![CDATA[<p>一句话总结：今天最重要的是，Cursor 公布了上个月被攻击的完整经过，源头不在它自己，而是交给合作方的一把钥匙，加上智能体会话记录里没删干净的密钥。今天讲四件事。第一件，是安全事故。Cursor 十一月十三日发了调查报告。起点在模型服务商 Fireworks：Cursor 发给它的一把访问钥匙被泄露，攻击者用它复制了一个存放编程智能体会话记录的存储桶。这些记录大多来自二零二五年，属于没开隐私模式、允许用来训练的会话。其中少数记录里，有用户贴进去的密钥没被删掉，按 Cursor 的说法，受影响的客户不到万分之一。攻击者顺着这些密钥，进了 Cursor 用的几个办公工具，看到了旧代码库、部分客服</p><p>文字版：<a href="https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep054.html">https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep054.html</a></p><p>全部文字版：<a href="https://xiaozhua33.github.io/listen-5pmrw7/ai/text/">https://xiaozhua33.github.io/listen-5pmrw7/ai/text/</a></p>]]></content:encoded>
+    <itunes:summary>一句话总结：今天最重要的是，Cursor 公布了上个月被攻击的完整经过，源头不在它自己，而是交给合作方的一把钥匙，加上智能体会话记录里没删干净的密钥。今天讲四件事。第一件，是安全事故。Cursor 十一月十三日发了调查报告。起点在模型服务商 Fireworks：Cursor 发给它的一把访问钥匙被泄露，攻击者用它复制了一个存放编程智能体会话记录的存储桶。这些记录大多来自二零二五年，属于没开隐私模式、允许用来训练的会话。其中少数记录里，有用户贴进去的密钥没被删掉，按 Cursor 的说法，受影响的客户不到万分之一。攻击者顺着这些密钥，进了 Cursor 用的几个办公工具，看到了旧代码库、部分客服</itunes:summary>
+    <enclosure url="https://xiaozhua33.github.io/listen-5pmrw7/ai/episodes/ep054.mp3" length="2441132" type="audio/mpeg"/>
+    <guid isPermaLink="false">ai-ep054</guid>
+    <pubDate>Sun, 15 Nov 2026 22:29:54 -0000</pubDate>
+    <itunes:duration>00:05:05</itunes:duration>
+    <itunes:episode>54</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <podcast:season name="AI 早报">1</podcast:season>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>交易入门 11/16｜急跌后小反弹，情绪更冷</title>
     <link>https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep053.html</link>
     <description>【第3季 · 交易入门】一句话结论：周末急跌之后，币价从四个月低点反弹了一点，但情绪更冷了，恐贪指数掉到十，市场还没缓过来。先看行情。比特币过去二十四小时涨了大约百分之二，现在大约六万五千二百美元。这一天里最低碰到过六万二千美元左右，是七月以来最低，最高大约六万六千一百美元。来源是 Binance，东京时间十一月十六日早上七点十四分抓取。以太坊涨了大约百分之四，现在大约一千八百二十美元，最低到过一千七百一十美元左右。同样来自 Binance，同一时间抓取。恐贪指数是十，前一天是十三，在极度恐惧区里又往下走了一点。来源是 alternative.me，同一时间抓取。拉长看，按 The Block 的统计，过去一周比特币
