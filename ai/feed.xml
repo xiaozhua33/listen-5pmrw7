@@ -14,6 +14,23 @@
   <image><url>https://xiaozhua33.github.io/listen-5pmrw7/ai/cover.png</url><title>小贺的 AI 学习</title><link>https://xiaozhua33.github.io/listen-5pmrw7/ai/</link></image>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>论文速读 11/17｜AI 出的选择题答对八成六，学到的反而更少</title>
+    <link>https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep055.html</link>
+    <description>【第2季 · 论文速读】今天讲三篇：澳大利亚阿德莱德大学和意大利米兰理工的团队发现，让 AI 给教学视频出选择题，学生答对了八成多，学到的却比一道题都不做的人还少；韩国科学技术院 KAIST 的团队发现，AI 智能体的“经验笔记”有时会把它带错，他们的办法是让每条经验都能倒查回原始记录；还有美国几所大学的金融学者，用三万六千多位加拿大退休者的真实账户发现，有理财顾问的退休者，到了八十多岁还把一大半钱放在股票里。先说第一篇。这是十一月七日放到教育学预印本平台 EdArXiv 上的论文，还没经过同行评审。第一作者是阿德莱德大学“学习变化与复杂性中心”的研究员丹尼尔·埃伯特，合作者来自米兰理工大学。他们想回答一个很实际的问
+文字版：https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep055.html
+全部文字版：https://xiaozhua33.github.io/listen-5pmrw7/ai/text/</description>
+    <content:encoded><![CDATA[<p>今天讲三篇：澳大利亚阿德莱德大学和意大利米兰理工的团队发现，让 AI 给教学视频出选择题，学生答对了八成多，学到的却比一道题都不做的人还少；韩国科学技术院 KAIST 的团队发现，AI 智能体的“经验笔记”有时会把它带错，他们的办法是让每条经验都能倒查回原始记录；还有美国几所大学的金融学者，用三万六千多位加拿大退休者的真实账户发现，有理财顾问的退休者，到了八十多岁还把一大半钱放在股票里。先说第一篇。这是十一月七日放到教育学预印本平台 EdArXiv 上的论文，还没经过同行评审。第一作者是阿德莱德大学“学习变化与复杂性中心”的研究员丹尼尔·埃伯特，合作者来自米兰理工大学。他们想回答一个很实际的问</p><p>文字版：<a href="https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep055.html">https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep055.html</a></p><p>全部文字版：<a href="https://xiaozhua33.github.io/listen-5pmrw7/ai/text/">https://xiaozhua33.github.io/listen-5pmrw7/ai/text/</a></p>]]></content:encoded>
+    <itunes:summary>今天讲三篇：澳大利亚阿德莱德大学和意大利米兰理工的团队发现，让 AI 给教学视频出选择题，学生答对了八成多，学到的却比一道题都不做的人还少；韩国科学技术院 KAIST 的团队发现，AI 智能体的“经验笔记”有时会把它带错，他们的办法是让每条经验都能倒查回原始记录；还有美国几所大学的金融学者，用三万六千多位加拿大退休者的真实账户发现，有理财顾问的退休者，到了八十多岁还把一大半钱放在股票里。先说第一篇。这是十一月七日放到教育学预印本平台 EdArXiv 上的论文，还没经过同行评审。第一作者是阿德莱德大学“学习变化与复杂性中心”的研究员丹尼尔·埃伯特，合作者来自米兰理工大学。他们想回答一个很实际的问</itunes:summary>
+    <enclosure url="https://xiaozhua33.github.io/listen-5pmrw7/ai/episodes/ep055.mp3" length="5881772" type="audio/mpeg"/>
+    <guid isPermaLink="false">ai-ep055</guid>
+    <pubDate>Mon, 16 Nov 2026 21:49:26 -0000</pubDate>
+    <itunes:duration>00:12:15</itunes:duration>
+    <itunes:episode>55</itunes:episode>
+    <itunes:season>2</itunes:season>
+    <podcast:season name="论文速读">2</podcast:season>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>AI 早报 11/16｜Cursor 被攻击，源头是合作方泄露的一把钥匙</title>
     <link>https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep054.html</link>
     <description>【第1季 · AI 早报】一句话总结：今天最重要的是，Cursor 公布了上个月被攻击的完整经过，源头不在它自己，而是交给合作方的一把钥匙，加上智能体会话记录里没删干净的密钥。今天讲四件事。第一件，是安全事故。Cursor 十一月十三日发了调查报告。起点在模型服务商 Fireworks：Cursor 发给它的一把访问钥匙被泄露，攻击者用它复制了一个存放编程智能体会话记录的存储桶。这些记录大多来自二零二五年，属于没开隐私模式、允许用来训练的会话。其中少数记录里，有用户贴进去的密钥没被删掉，按 Cursor 的说法，受影响的客户不到万分之一。攻击者顺着这些密钥，进了 Cursor 用的几个办公工具，看到了旧代码库、部分客服
