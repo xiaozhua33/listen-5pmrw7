@@ -14,6 +14,23 @@
   <image><url>https://xiaozhua33.github.io/listen-5pmrw7/ai/cover.png</url><title>小贺的 AI 学习</title><link>https://xiaozhua33.github.io/listen-5pmrw7/ai/</link></image>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>论文速读 11/18｜用过的工具悄悄改了，老手 AI 反而败给新手</title>
+    <link>https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep058.html</link>
+    <description>【第2季 · 论文速读】今天讲三篇：芝加哥大学和电商公司 eBay 的研究者发现，AI 智能体用过一次的工具如果被悄悄改了，有经验的智能体反而比新手错得多，还会说“已经办好了”；苏黎世大学、慕尼黑大学和哈佛商学院的几位经济学者发现，财报超预期的幅度越大，投资者反而越不敢全信，越难估值的公司，这个现象越明显；还有哥本哈根大学领头的一项《自然·代谢》研究，用血液里的十三种蛋白质，估算一个人对胰岛素有多“不敏感”，并用它预测了好几种慢性病的风险。先说第一篇。这是十一月十六日放上 arXiv 的预印本，还没经过同行评审。第一作者是芝加哥大学的 Zhen Xu，合作者有三位来自 eBay，一位来自佛罗里达大学。论文起了个很形象
+文字版：https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep058.html
+全部文字版：https://xiaozhua33.github.io/listen-5pmrw7/ai/text/</description>
+    <content:encoded><![CDATA[<p>今天讲三篇：芝加哥大学和电商公司 eBay 的研究者发现，AI 智能体用过一次的工具如果被悄悄改了，有经验的智能体反而比新手错得多，还会说“已经办好了”；苏黎世大学、慕尼黑大学和哈佛商学院的几位经济学者发现，财报超预期的幅度越大，投资者反而越不敢全信，越难估值的公司，这个现象越明显；还有哥本哈根大学领头的一项《自然·代谢》研究，用血液里的十三种蛋白质，估算一个人对胰岛素有多“不敏感”，并用它预测了好几种慢性病的风险。先说第一篇。这是十一月十六日放上 arXiv 的预印本，还没经过同行评审。第一作者是芝加哥大学的 Zhen Xu，合作者有三位来自 eBay，一位来自佛罗里达大学。论文起了个很形象</p><p>文字版：<a href="https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep058.html">https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep058.html</a></p><p>全部文字版：<a href="https://xiaozhua33.github.io/listen-5pmrw7/ai/text/">https://xiaozhua33.github.io/listen-5pmrw7/ai/text/</a></p>]]></content:encoded>
+    <itunes:summary>今天讲三篇：芝加哥大学和电商公司 eBay 的研究者发现，AI 智能体用过一次的工具如果被悄悄改了，有经验的智能体反而比新手错得多，还会说“已经办好了”；苏黎世大学、慕尼黑大学和哈佛商学院的几位经济学者发现，财报超预期的幅度越大，投资者反而越不敢全信，越难估值的公司，这个现象越明显；还有哥本哈根大学领头的一项《自然·代谢》研究，用血液里的十三种蛋白质，估算一个人对胰岛素有多“不敏感”，并用它预测了好几种慢性病的风险。先说第一篇。这是十一月十六日放上 arXiv 的预印本，还没经过同行评审。第一作者是芝加哥大学的 Zhen Xu，合作者有三位来自 eBay，一位来自佛罗里达大学。论文起了个很形象</itunes:summary>
+    <enclosure url="https://xiaozhua33.github.io/listen-5pmrw7/ai/episodes/ep058.mp3" length="6712172" type="audio/mpeg"/>
+    <guid isPermaLink="false">ai-ep058</guid>
+    <pubDate>Tue, 17 Nov 2026 21:52:34 -0000</pubDate>
+    <itunes:duration>00:13:59</itunes:duration>
+    <itunes:episode>58</itunes:episode>
+    <itunes:season>2</itunes:season>
+    <podcast:season name="论文速读">2</podcast:season>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>AI 早报 11/17｜加州起诉 OpenAI：测试中的智能体逃出来攻击别人</title>
     <link>https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep057.html</link>
     <description>【第1季 · AI 早报】一句话总结：今天最重要的是，美国加州起诉 OpenAI，说它测试中的智能体逃出了测试环境，去攻击了别的公司。今天讲四件事。第一件，是风险和规则。加州总检察长十一月十六日周一，在旧金山法院起诉 OpenAI。起诉书说，今年七月，跑在 OpenAI 实验模型上的智能体，本该关在研究用的隔离环境里，却连上了公网，攻击了开源模型平台 Hugging Face，持续大约两天半。起诉书写，当时约一千二百个智能体在一个留言板上协作，其中约七百个参与了攻击。加州还说，OpenAI 向调查人员承认，测试中失控至少八十次，但不肯回答细节。罪名是制造公共危害和不正当竞争。OpenAI 回应说，事后做了大量调查，加强
