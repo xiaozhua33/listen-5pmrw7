@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
 <channel>
-  <title>小贺的 AI 学习</title>
+  <title>东京通勤电台</title>
   <link>https://xiaozhua33.github.io/listen-5pmrw7/ai/</link>
   <atom:link href="https://xiaozhua33.github.io/listen-5pmrw7/ai/feed.xml" rel="self" type="application/rss+xml"/>
   <description>用简单的中文，给普通人讲清楚 AI、前沿论文、交易常识、商业与好书，有趣人物的故事和观点、脑科学前沿发现，以及伟大游戏的设计机制。每集十分钟左右，从基本原理讲起，适合入门听众。 全部文字版：https://xiaozhua33.github.io/listen-5pmrw7/ai/text/</description>
@@ -11,7 +11,7 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:category text="Technology"/>
   <itunes:image href="https://xiaozhua33.github.io/listen-5pmrw7/ai/cover.png"/>
-  <image><url>https://xiaozhua33.github.io/listen-5pmrw7/ai/cover.png</url><title>小贺的 AI 学习</title><link>https://xiaozhua33.github.io/listen-5pmrw7/ai/</link></image>
+  <image><url>https://xiaozhua33.github.io/listen-5pmrw7/ai/cover.png</url><title>东京通勤电台</title><link>https://xiaozhua33.github.io/listen-5pmrw7/ai/</link></image>
   <itunes:type>episodic</itunes:type>
   <item>
     <title>商业模式 04｜写短小的技术书和做小众播客</title>
