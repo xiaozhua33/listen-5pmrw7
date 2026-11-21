@@ -1,10 +1,10 @@
 <!doctype html>
 <html lang="zh-CN"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>AI 早报 11/16｜Cursor 被攻击，源头是合作方泄露的一把钥匙</title>
+<title>AI 早报 11月16日｜Cursor 被攻击，源头是合作方泄露的一把钥匙</title>
 <style>body{max-width:40em;margin:0 auto;padding:1.2em;font:18px/1.8 -apple-system,"PingFang SC","Noto Sans CJK SC",sans-serif;color:#222;background:#fff}
 h1{font-size:1.4em;line-height:1.4}p{margin:0 0 1em}@media(prefers-color-scheme:dark){body{color:#ddd;background:#111}}</style>
-</head><body><p><a href="index.html">← 全部文字版</a></p><h1>AI 早报 11/16｜Cursor 被攻击，源头是合作方泄露的一把钥匙</h1>
+</head><body><p><a href="index.html">← 全部文字版</a></p><h1>AI 早报 11月16日｜Cursor 被攻击，源头是合作方泄露的一把钥匙</h1>
 <p>一句话总结：今天最重要的是，Cursor 公布了上个月被攻击的完整经过，源头不在它自己，而是交给合作方的一把钥匙，加上智能体会话记录里没删干净的密钥。</p>
 <p>今天讲四件事。</p>
 <p>第一件，是安全事故。Cursor 十一月十三日发了调查报告。起点在模型服务商 Fireworks：Cursor 发给它的一把访问钥匙被泄露，攻击者用它复制了一个存放编程智能体会话记录的存储桶。这些记录大多来自二零二五年，属于没开隐私模式、允许用来训练的会话。其中少数记录里，有用户贴进去的密钥没被删掉，按 Cursor 的说法，受影响的客户不到万分之一。攻击者顺着这些密钥，进了 Cursor 用的几个办公工具，看到了旧代码库、部分客服邮件，还有用户发给客服的一些登录凭证。十月二十九日，他又用偷来的凭证，把一个带后门的 Claude Code 扩展假版本放进 Cursor 的扩展市场，挂了大约十一个小时，最多五千人可能装到。Anthropic 自己的扩展没有问题。Cursor 已经把推理流量全部撤离 Fireworks，并更换了所有内部凭证。</p>

@@ -1,10 +1,10 @@
 <!doctype html>
 <html lang="zh-CN"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>AI 早报 11/10｜德国托管商的 MCP 服务器被攻破</title>
+<title>AI 早报 11月10日｜德国托管商的 MCP 服务器被攻破</title>
 <style>body{max-width:40em;margin:0 auto;padding:1.2em;font:18px/1.8 -apple-system,"PingFang SC","Noto Sans CJK SC",sans-serif;color:#222;background:#fff}
 h1{font-size:1.4em;line-height:1.4}p{margin:0 0 1em}@media(prefers-color-scheme:dark){body{color:#ddd;background:#111}}</style>
-</head><body><p><a href="index.html">← 全部文字版</a></p><h1>AI 早报 11/10｜德国托管商的 MCP 服务器被攻破</h1>
+</head><body><p><a href="index.html">← 全部文字版</a></p><h1>AI 早报 11月10日｜德国托管商的 MCP 服务器被攻破</h1>
 <p>一句话总结：今天最重要的是，德国一家网站托管公司，被人从它给 AI 助手用的 MCP 服务器打了进来，五十六个客户项目被攻破。</p>
 <p>今天讲四件事。</p>
 <p>第一件，是安全事故。德国托管商 Mittwald 上周六公布了经过。它做了一个 MCP 服务器，让客户把 AI 助手连到自己的网站管理后台。攻击者十月二十一日开始试探这个服务器的漏洞，二十七日注册了一个新账号，五分钟后就利用漏洞，读走了用过这个服务器的客户的会话令牌，也就是登录后系统发的一张临时通行证，拿着它就能以客户的身份操作。结果五十六个客户项目被攻破，八天后的十一月四日才被发现。公司随后关掉 MCP 服务器，作废所有令牌，暂停后台登录和远程登录好几天。公司说，日志里攻击者每一步之间有时只隔几秒，所以认为用了 AI 工具，但没给出别的证据。漏洞在公司自己的代码里，还是在开源的 MCP 程序库里，目前也不清楚。没用过这个 MCP 服务器的客户，按公司说法不受影响。</p>
