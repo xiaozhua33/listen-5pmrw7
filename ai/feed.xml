@@ -14,6 +14,23 @@
   <image><url>https://xiaozhua33.github.io/listen-5pmrw7/ai/cover.png</url><title>东京通勤电台</title><link>https://xiaozhua33.github.io/listen-5pmrw7/ai/</link></image>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>AI 早报 11月23日｜OpenAI 首席科学家公开内部困惑度数据，提议全行业设发展上限</title>
+    <link>https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep070.html</link>
+    <description>【第1季 · AI 早报】一句话总结：今天最重要的是，OpenAI 首席科学家公开了内部的模型进步数据，并提议全行业约定一条“先停在这里”的发展上限。今天讲五件事。第一件，是规则。十一月二十二日，OpenAI 首席科学家雅库布·帕霍茨基发表长文《困惑度与智能》。困惑度，是衡量模型猜下一个字猜得有多准的指标，越低说明预训练越强。他第一次公开了 OpenAI 的内部数字：GPT 三点五大约零点九九，GPT 四大约零点九一；降到零点八以下，模型在网络安全和数学上出现了质变；到零点七六左右，模型开始解出数学难题。他推测，最快二零二七年，AI 可能在预训练研究上也出现类似的爆发。所以他提议，各家约定一条以困惑度等指标为准的上限，
+文字版：https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep070.html
+全部文字版：https://xiaozhua33.github.io/listen-5pmrw7/ai/text/</description>
+    <content:encoded><![CDATA[<p>一句话总结：今天最重要的是，OpenAI 首席科学家公开了内部的模型进步数据，并提议全行业约定一条“先停在这里”的发展上限。今天讲五件事。第一件，是规则。十一月二十二日，OpenAI 首席科学家雅库布·帕霍茨基发表长文《困惑度与智能》。困惑度，是衡量模型猜下一个字猜得有多准的指标，越低说明预训练越强。他第一次公开了 OpenAI 的内部数字：GPT 三点五大约零点九九，GPT 四大约零点九一；降到零点八以下，模型在网络安全和数学上出现了质变；到零点七六左右，模型开始解出数学难题。他推测，最快二零二七年，AI 可能在预训练研究上也出现类似的爆发。所以他提议，各家约定一条以困惑度等指标为准的上限，</p><p>文字版：<a href="https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep070.html">https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep070.html</a></p><p>全部文字版：<a href="https://xiaozhua33.github.io/listen-5pmrw7/ai/text/">https://xiaozhua33.github.io/listen-5pmrw7/ai/text/</a></p>]]></content:encoded>
+    <itunes:summary>一句话总结：今天最重要的是，OpenAI 首席科学家公开了内部的模型进步数据，并提议全行业约定一条“先停在这里”的发展上限。今天讲五件事。第一件，是规则。十一月二十二日，OpenAI 首席科学家雅库布·帕霍茨基发表长文《困惑度与智能》。困惑度，是衡量模型猜下一个字猜得有多准的指标，越低说明预训练越强。他第一次公开了 OpenAI 的内部数字：GPT 三点五大约零点九九，GPT 四大约零点九一；降到零点八以下，模型在网络安全和数学上出现了质变；到零点七六左右，模型开始解出数学难题。他推测，最快二零二七年，AI 可能在预训练研究上也出现类似的爆发。所以他提议，各家约定一条以困惑度等指标为准的上限，</itunes:summary>
+    <enclosure url="https://xiaozhua33.github.io/listen-5pmrw7/ai/episodes/ep070.mp3" length="2020076" type="audio/mpeg"/>
+    <guid isPermaLink="false">ai-ep070</guid>
+    <pubDate>Sun, 22 Nov 2026 22:31:24 -0000</pubDate>
+    <itunes:duration>00:04:12</itunes:duration>
+    <itunes:episode>70</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <podcast:season name="AI 早报">1</podcast:season>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>交易入门 11月23日｜币市小幅反弹，跨链桥出事和矿工亏损成焦点</title>
     <link>https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep069.html</link>
     <description>【第3季 · 交易入门】今天一句话：币市继续小幅反弹，但大家的情绪还是极度害怕。先看行情。比特币过去24小时涨了大约百分之一，现在大约六万零九百美元（来源Binance，东京时间11月23日早上7点15分抓取）。这24小时里最低到过五万八千八百美元左右。以太坊涨了大约百分之二，现在大约一千七百二十美元（来源同上）。恐贪指数是11，比昨天的12又低了一点，还是极度恐惧（来源alternative.me，同一时间抓取）。今天的大事一：一个叫Cyber的代币，跨链桥疑似被攻击。跨链桥，指的是把资产从一条区块链搬到另一条区块链的工具，你在这边锁住币，那边给你发一份等量的“替身币”。发生了什么：据X新闻汇总，链上数据显示，有人
