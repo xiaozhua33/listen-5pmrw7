@@ -14,6 +14,23 @@
   <image><url>https://xiaozhua33.github.io/listen-5pmrw7/ai/cover.png</url><title>东京通勤电台</title><link>https://xiaozhua33.github.io/listen-5pmrw7/ai/</link></image>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>AI 早报 11月24日｜Claude 协助证明黎曼猜想，多方独立核查通过</title>
+    <link>https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep077.html</link>
+    <description>【第1季 · AI 早报】一句话总结：今天最重要的是，Anthropic 的数学家用 Claude 证明了黎曼猜想，这几天多个独立团队用机器把证明核了一遍，结果都通过。今天讲五件事。第一件，是 AI 能力。11月20日，Anthropic 的数学家莱文特·阿尔珀格公布，他和 Claude 用大约六周，证明了一百六十多年没人解决的黎曼猜想。它讲的是质数分布背后的规律，是数学界最有名的难题之一。证明写成了 Lean 代码，一共一千七百万行。Lean 是一种能让电脑逐步检查数学证明的语言。11月21日，Lean 和 Mathlib 两个社区发联合声明，确认题目和证明都正确。麻省理工的数学家萨瑟兰用 Claude Code 跑
+文字版：https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep077.html
+全部文字版：https://xiaozhua33.github.io/listen-5pmrw7/ai/text/</description>
+    <content:encoded><![CDATA[<p>一句话总结：今天最重要的是，Anthropic 的数学家用 Claude 证明了黎曼猜想，这几天多个独立团队用机器把证明核了一遍，结果都通过。今天讲五件事。第一件，是 AI 能力。11月20日，Anthropic 的数学家莱文特·阿尔珀格公布，他和 Claude 用大约六周，证明了一百六十多年没人解决的黎曼猜想。它讲的是质数分布背后的规律，是数学界最有名的难题之一。证明写成了 Lean 代码，一共一千七百万行。Lean 是一种能让电脑逐步检查数学证明的语言。11月21日，Lean 和 Mathlib 两个社区发联合声明，确认题目和证明都正确。麻省理工的数学家萨瑟兰用 Claude Code 跑</p><p>文字版：<a href="https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep077.html">https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep077.html</a></p><p>全部文字版：<a href="https://xiaozhua33.github.io/listen-5pmrw7/ai/text/">https://xiaozhua33.github.io/listen-5pmrw7/ai/text/</a></p>]]></content:encoded>
+    <itunes:summary>一句话总结：今天最重要的是，Anthropic 的数学家用 Claude 证明了黎曼猜想，这几天多个独立团队用机器把证明核了一遍，结果都通过。今天讲五件事。第一件，是 AI 能力。11月20日，Anthropic 的数学家莱文特·阿尔珀格公布，他和 Claude 用大约六周，证明了一百六十多年没人解决的黎曼猜想。它讲的是质数分布背后的规律，是数学界最有名的难题之一。证明写成了 Lean 代码，一共一千七百万行。Lean 是一种能让电脑逐步检查数学证明的语言。11月21日，Lean 和 Mathlib 两个社区发联合声明，确认题目和证明都正确。麻省理工的数学家萨瑟兰用 Claude Code 跑</itunes:summary>
+    <enclosure url="https://xiaozhua33.github.io/listen-5pmrw7/ai/episodes/ep077.mp3" length="1906220" type="audio/mpeg"/>
+    <guid isPermaLink="false">ai-ep077</guid>
+    <pubDate>Mon, 23 Nov 2026 22:27:49 -0000</pubDate>
+    <itunes:duration>00:03:58</itunes:duration>
+    <itunes:episode>77</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <podcast:season name="AI 早报">1</podcast:season>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>交易入门 11月24日｜冲高又跌回，一场轧空和ETF资金流出</title>
     <link>https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep076.html</link>
     <description>【第3季 · 交易入门】今天一句话：币市白天冲高又跌回来，24小时看几乎没动，情绪还是极度害怕。先看行情。比特币过去24小时涨了大约百分之零点六，现在大约六万一千三百美元（来源Binance，东京时间11月24日早上7点10分抓取）。中间一度冲到六万四千六百美元左右，后来又跌回来。以太坊涨了大约百分之零点二，现在大约一千七百二十美元（来源同上）。中间最高到过一千八百四十多美元。恐贪指数是11，和昨天一样，还是极度恐惧（来源alternative.me，同一时间抓取）。今天的大事一：一场轧空，把比特币短暂推高，然后又落回原地。轧空，指的是很多人借着杠杆押价格下跌，价格一往上走，这些空单被迫平仓，平仓就要买回币，买的动作

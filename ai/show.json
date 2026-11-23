@@ -1079,7 +1079,22 @@
    "old_title": "交易入门 11月24日｜冲高又跌回，一场轧空和ETF资金流出",
    "season": 3,
    "script": "scripts/auto-trade-20261124071107.md"
+  },
+  {
+   "n": 77,
+   "title": "AI 早报 11月24日｜Claude 协助证明黎曼猜想，多方独立核查通过",
+   "file": "ep077.mp3",
+   "bytes": 1906220,
+   "seconds": 238.248,
+   "ts": 1795472869,
+   "guid": "ai-ep077",
+   "summary": "一句话总结：今天最重要的是，Anthropic 的数学家用 Claude 证明了黎曼猜想，这几天多个独立团队用机器把证明核了一遍，结果都通过。今天讲五件事。第一件，是 AI 能力。11月20日，Anthropic 的数学家莱文特·阿尔珀格公布，他和 Claude 用大约六周，证明了一百六十多年没人解决的黎曼猜想。它讲的是质数分布背后的规律，是数学界最有名的难题之一。证明写成了 Lean 代码，一共一千七百万行。Lean 是一种能让电脑逐步检查数学证明的语言。11月21日，Lean 和 Mathlib 两个社区发联合声明，确认题目和证明都正确。麻省理工的数学家萨瑟兰用 Claude Code 跑",
+   "voice": "zh-CN-YunjianNeural",
+   "hook": "Claude 协助证明黎曼猜想，多方独立核查通过",
+   "old_title": "AI 早报 11月24日｜Claude 协助证明黎曼猜想，多方独立核查通过",
+   "season": 1,
+   "script": "scripts/auto-ai-20261124072556.md"
   }
  ],
- "max_n": 76
+ "max_n": 77
 }
