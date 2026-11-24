@@ -14,6 +14,23 @@
   <image><url>https://xiaozhua33.github.io/listen-5pmrw7/ai/cover.png</url><title>东京通勤电台</title><link>https://xiaozhua33.github.io/listen-5pmrw7/ai/</link></image>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>AI 早报 11月25日｜MCP 满两周年，服务器可以自带技能和后台长任务</title>
+    <link>https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep080.html</link>
+    <description>【第1季 · AI 早报】一句话总结：今天最重要的是，MCP 满两周年，Claude 让 MCP 服务器可以直接附带技能，还能把长任务放到后台跑。今天讲五件事。第一件，是智能体的新做法。11月24日，Anthropic 在 MCP 两周年时宣布了三项更新。第一，Skills over MCP 进入公开测试。以前 MCP 服务器只告诉 Claude 有哪些工具，现在可以把怎么用的技能一起带上，比如 Shopify 带上整套开店流程。技能只在需要时才加载，占用的上下文很少，而且跟着服务器一起更新，用户不用另外安装。第二，Tasks 正式上线，服务器可以在后台跑耗时很长的操作，Claude 先干别的，结果好了再取回来。第三，
+文字版：https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep080.html
+全部文字版：https://xiaozhua33.github.io/listen-5pmrw7/ai/text/</description>
+    <content:encoded><![CDATA[<p>一句话总结：今天最重要的是，MCP 满两周年，Claude 让 MCP 服务器可以直接附带技能，还能把长任务放到后台跑。今天讲五件事。第一件，是智能体的新做法。11月24日，Anthropic 在 MCP 两周年时宣布了三项更新。第一，Skills over MCP 进入公开测试。以前 MCP 服务器只告诉 Claude 有哪些工具，现在可以把怎么用的技能一起带上，比如 Shopify 带上整套开店流程。技能只在需要时才加载，占用的上下文很少，而且跟着服务器一起更新，用户不用另外安装。第二，Tasks 正式上线，服务器可以在后台跑耗时很长的操作，Claude 先干别的，结果好了再取回来。第三，</p><p>文字版：<a href="https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep080.html">https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep080.html</a></p><p>全部文字版：<a href="https://xiaozhua33.github.io/listen-5pmrw7/ai/text/">https://xiaozhua33.github.io/listen-5pmrw7/ai/text/</a></p>]]></content:encoded>
+    <itunes:summary>一句话总结：今天最重要的是，MCP 满两周年，Claude 让 MCP 服务器可以直接附带技能，还能把长任务放到后台跑。今天讲五件事。第一件，是智能体的新做法。11月24日，Anthropic 在 MCP 两周年时宣布了三项更新。第一，Skills over MCP 进入公开测试。以前 MCP 服务器只告诉 Claude 有哪些工具，现在可以把怎么用的技能一起带上，比如 Shopify 带上整套开店流程。技能只在需要时才加载，占用的上下文很少，而且跟着服务器一起更新，用户不用另外安装。第二，Tasks 正式上线，服务器可以在后台跑耗时很长的操作，Claude 先干别的，结果好了再取回来。第三，</itunes:summary>
+    <enclosure url="https://xiaozhua33.github.io/listen-5pmrw7/ai/episodes/ep080.mp3" length="1947308" type="audio/mpeg"/>
+    <guid isPermaLink="false">ai-ep080</guid>
+    <pubDate>Tue, 24 Nov 2026 22:27:58 -0000</pubDate>
+    <itunes:duration>00:04:03</itunes:duration>
+    <itunes:episode>80</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <podcast:season name="AI 早报">1</podcast:season>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>交易入门 11月25日｜比特币跌破六万，ETF单月流出创纪录</title>
     <link>https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep079.html</link>
     <description>【第3季 · 交易入门】今天一句话：币市又跌了，比特币跌回六万美元下面，情绪还是极度害怕。先看行情。比特币过去24小时跌了大约百分之二点一，现在大约五万九千九百六十美元（来源Binance，东京时间11月25日早上7点12分抓取）。这一天里最高到过六万一千七百左右，最低到过五万九千二百六十左右。以太坊也跌了大约百分之二点二，现在大约一千六百八十三美元（来源同上）。最低到过一千六百六十四左右。恐贪指数是11，和昨天一样，还是极度恐惧（来源alternative.me，同一时间抓取）。今天的大事一：比特币跌破六万，基金那边的钱还在往外走。发生了什么：据X新闻汇总，美国的现货比特币ETF在11月24日这一天又净流出大约五亿
