@@ -14,6 +14,23 @@
   <image><url>https://xiaozhua33.github.io/listen-5pmrw7/ai/cover.png</url><title>东京通勤电台</title><link>https://xiaozhua33.github.io/listen-5pmrw7/ai/</link></image>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>论文速读 11月25日｜让 AI 当经理分活，事情一重要就不管员工开不开心</title>
+    <link>https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep078.html</link>
+    <description>【第2季 · 论文速读】今天讲三篇：麻省理工、普林斯顿等校的认知科学家发现，人们给员工和 AI 分活时，愿意牺牲一点成绩，照顾员工干活开不开心，而让 AI 来当经理，事情一重要它就几乎只看成绩；麻省理工和微软研究院的两位经济学者，借一个“合同到期审查”的自然实验发现，大公司用上 AI 编程助手一年后，代码最多的初级岗位少招了大约四成；还有加州大学尔湾分校和微软的研究者，研究普通人用 AI 编程智能体给自己做小软件，发现大家几乎不写代码了，近一半时间花在检查上。先说第一篇。这是十一月二十三日放上 arXiv 的预印本，还没经过同行评审。第一作者是麻省理工和普林斯顿的凯瑟琳·柯林斯，资深作者里有普林斯顿研究人类认知的托马
+文字版：https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep078.html
+全部文字版：https://xiaozhua33.github.io/listen-5pmrw7/ai/text/</description>
+    <content:encoded><![CDATA[<p>今天讲三篇：麻省理工、普林斯顿等校的认知科学家发现，人们给员工和 AI 分活时，愿意牺牲一点成绩，照顾员工干活开不开心，而让 AI 来当经理，事情一重要它就几乎只看成绩；麻省理工和微软研究院的两位经济学者，借一个“合同到期审查”的自然实验发现，大公司用上 AI 编程助手一年后，代码最多的初级岗位少招了大约四成；还有加州大学尔湾分校和微软的研究者，研究普通人用 AI 编程智能体给自己做小软件，发现大家几乎不写代码了，近一半时间花在检查上。先说第一篇。这是十一月二十三日放上 arXiv 的预印本，还没经过同行评审。第一作者是麻省理工和普林斯顿的凯瑟琳·柯林斯，资深作者里有普林斯顿研究人类认知的托马</p><p>文字版：<a href="https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep078.html">https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep078.html</a></p><p>全部文字版：<a href="https://xiaozhua33.github.io/listen-5pmrw7/ai/text/">https://xiaozhua33.github.io/listen-5pmrw7/ai/text/</a></p>]]></content:encoded>
+    <itunes:summary>今天讲三篇：麻省理工、普林斯顿等校的认知科学家发现，人们给员工和 AI 分活时，愿意牺牲一点成绩，照顾员工干活开不开心，而让 AI 来当经理，事情一重要它就几乎只看成绩；麻省理工和微软研究院的两位经济学者，借一个“合同到期审查”的自然实验发现，大公司用上 AI 编程助手一年后，代码最多的初级岗位少招了大约四成；还有加州大学尔湾分校和微软的研究者，研究普通人用 AI 编程智能体给自己做小软件，发现大家几乎不写代码了，近一半时间花在检查上。先说第一篇。这是十一月二十三日放上 arXiv 的预印本，还没经过同行评审。第一作者是麻省理工和普林斯顿的凯瑟琳·柯林斯，资深作者里有普林斯顿研究人类认知的托马</itunes:summary>
+    <enclosure url="https://xiaozhua33.github.io/listen-5pmrw7/ai/episodes/ep078.mp3" length="6032108" type="audio/mpeg"/>
+    <guid isPermaLink="false">ai-ep078</guid>
+    <pubDate>Tue, 24 Nov 2026 22:04:08 -0000</pubDate>
+    <itunes:duration>00:12:34</itunes:duration>
+    <itunes:episode>78</itunes:episode>
+    <itunes:season>2</itunes:season>
+    <podcast:season name="论文速读">2</podcast:season>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>AI 早报 11月24日｜Claude 协助证明黎曼猜想，多方独立核查通过</title>
     <link>https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep077.html</link>
     <description>【第1季 · AI 早报】一句话总结：今天最重要的是，Anthropic 的数学家用 Claude 证明了黎曼猜想，这几天多个独立团队用机器把证明核了一遍，结果都通过。今天讲五件事。第一件，是 AI 能力。11月20日，Anthropic 的数学家莱文特·阿尔珀格公布，他和 Claude 用大约六周，证明了一百六十多年没人解决的黎曼猜想。它讲的是质数分布背后的规律，是数学界最有名的难题之一。证明写成了 Lean 代码，一共一千七百万行。Lean 是一种能让电脑逐步检查数学证明的语言。11月21日，Lean 和 Mathlib 两个社区发联合声明，确认题目和证明都正确。麻省理工的数学家萨瑟兰用 Claude Code 跑
