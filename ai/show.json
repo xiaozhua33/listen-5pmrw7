@@ -1184,7 +1184,22 @@
    "old_title": "交易入门 11月26日｜经济数据偏强币价先跌后回，富达上架DeFi代币",
    "season": 3,
    "script": "scripts/auto-trade-20261126071547.md"
+  },
+  {
+   "n": 84,
+   "title": "AI 早报 11月26日｜谷歌 Workspace 正式开放 MCP，智能体以后只能走这条路",
+   "file": "ep084.mp3",
+   "bytes": 2108204,
+   "seconds": 263.496,
+   "ts": 1795645562,
+   "guid": "ai-ep084",
+   "summary": "一句话总结：今天最重要的是，谷歌把 Workspace 的 MCP 服务器正式开放，而且规定以后外部智能体读写 Gmail、云端硬盘和日历，都要走 MCP 这条路。今天讲五件事。第一件，是大公司新产品。11月24日，谷歌宣布 Workspace MCP 服务器和官方命令行工具正式上线。MCP 服务器由谷歌托管，覆盖 Gmail、云端硬盘、文档、表格、幻灯片、日历、Chat 和 Tasks。命令行工具给在终端里跑的智能体用，自带打包好的技能。免费档有公开的调用上限，谷歌说超过百分之九十九的开发者都在免费档里。最值得注意的是一条新规定：AI 智能体必须通过 MCP 访问 Workspace 数据，",
+   "voice": "zh-CN-XiaoyiNeural",
+   "hook": "谷歌 Workspace 正式开放 MCP，智能体以后只能走这条路",
+   "old_title": "AI 早报 11月26日｜谷歌 Workspace 正式开放 MCP，智能体以后只能走这条路",
+   "season": 1,
+   "script": "scripts/auto-ai-20261126072421.md"
   }
  ],
- "max_n": 83
+ "max_n": 84
 }
