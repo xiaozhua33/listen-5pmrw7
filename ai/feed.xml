@@ -14,6 +14,23 @@
   <image><url>https://xiaozhua33.github.io/listen-5pmrw7/ai/cover.png</url><title>东京通勤电台</title><link>https://xiaozhua33.github.io/listen-5pmrw7/ai/</link></image>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>商业模式 01｜卖整理好的名单和办一场线上大会</title>
+    <link>https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep081.html</link>
+    <description>【第4季 · 商业模式】11月25日 商业入门：卖整理好的名单和办一场线上大会，两种靠整理信息和组织人赚钱的生意。先说结论。今天讲两个案例，它们都不靠复杂的技术赚钱。第一个，是一个每周卖名单的小生意，名单上是刚拿到融资的创业公司老板，买家是想找客户的服务公司，创始人说做到了每月大约一千美元的收入。第二个，是一位工程师一个人办的线上技术大会，门票让观众自己定价，他说一共卖出四百八十一张票，收入大约两万美元。两个案例说的是同一件事：很多人愿意为省时间付钱，替别人把散落的信息整理好，或者替别人把一群人组织到一起，本身就是一种可以收钱的服务。但它们也都说明，这类生意的主要成本不是钱，而是你自己的时间和精力。开始前提醒一句，下
+文字版：https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep081.html
+全部文字版：https://xiaozhua33.github.io/listen-5pmrw7/ai/text/</description>
+    <content:encoded><![CDATA[<p>11月25日 商业入门：卖整理好的名单和办一场线上大会，两种靠整理信息和组织人赚钱的生意。先说结论。今天讲两个案例，它们都不靠复杂的技术赚钱。第一个，是一个每周卖名单的小生意，名单上是刚拿到融资的创业公司老板，买家是想找客户的服务公司，创始人说做到了每月大约一千美元的收入。第二个，是一位工程师一个人办的线上技术大会，门票让观众自己定价，他说一共卖出四百八十一张票，收入大约两万美元。两个案例说的是同一件事：很多人愿意为省时间付钱，替别人把散落的信息整理好，或者替别人把一群人组织到一起，本身就是一种可以收钱的服务。但它们也都说明，这类生意的主要成本不是钱，而是你自己的时间和精力。开始前提醒一句，下</p><p>文字版：<a href="https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep081.html">https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep081.html</a></p><p>全部文字版：<a href="https://xiaozhua33.github.io/listen-5pmrw7/ai/text/">https://xiaozhua33.github.io/listen-5pmrw7/ai/text/</a></p>]]></content:encoded>
+    <itunes:summary>11月25日 商业入门：卖整理好的名单和办一场线上大会，两种靠整理信息和组织人赚钱的生意。先说结论。今天讲两个案例，它们都不靠复杂的技术赚钱。第一个，是一个每周卖名单的小生意，名单上是刚拿到融资的创业公司老板，买家是想找客户的服务公司，创始人说做到了每月大约一千美元的收入。第二个，是一位工程师一个人办的线上技术大会，门票让观众自己定价，他说一共卖出四百八十一张票，收入大约两万美元。两个案例说的是同一件事：很多人愿意为省时间付钱，替别人把散落的信息整理好，或者替别人把一群人组织到一起，本身就是一种可以收钱的服务。但它们也都说明，这类生意的主要成本不是钱，而是你自己的时间和精力。开始前提醒一句，下</itunes:summary>
+    <enclosure url="https://xiaozhua33.github.io/listen-5pmrw7/ai/episodes/ep081.mp3" length="5267756" type="audio/mpeg"/>
+    <guid isPermaLink="false">ai-ep081</guid>
+    <pubDate>Wed, 25 Nov 2026 10:26:03 -0000</pubDate>
+    <itunes:duration>00:10:58</itunes:duration>
+    <itunes:episode>81</itunes:episode>
+    <itunes:season>4</itunes:season>
+    <podcast:season name="商业模式">4</podcast:season>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>AI 早报 11月25日｜MCP 满两周年，服务器可以自带技能和后台长任务</title>
     <link>https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep080.html</link>
     <description>【第1季 · AI 早报】一句话总结：今天最重要的是，MCP 满两周年，Claude 让 MCP 服务器可以直接附带技能，还能把长任务放到后台跑。今天讲五件事。第一件，是智能体的新做法。11月24日，Anthropic 在 MCP 两周年时宣布了三项更新。第一，Skills over MCP 进入公开测试。以前 MCP 服务器只告诉 Claude 有哪些工具，现在可以把怎么用的技能一起带上，比如 Shopify 带上整套开店流程。技能只在需要时才加载，占用的上下文很少，而且跟着服务器一起更新，用户不用另外安装。第二，Tasks 正式上线，服务器可以在后台跑耗时很长的操作，Claude 先干别的，结果好了再取回来。第三，
