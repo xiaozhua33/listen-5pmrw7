@@ -14,6 +14,23 @@
   <image><url>https://xiaozhua33.github.io/listen-5pmrw7/ai/cover.png</url><title>东京通勤电台</title><link>https://xiaozhua33.github.io/listen-5pmrw7/ai/</link></image>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>论文速读 11月27日｜同一段 AI 回答，整段跳出来比逐字写出来，盲投胜率少了一半</title>
+    <link>https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep085.html</link>
+    <description>【第2季 · 论文速读】今天讲三篇，AI、健康、金融各一篇：美国史蒂文斯理工学院和麻省大学波士顿分校的三位学者发现，同一段 AI 回答，一下子整段跳出来，比一个字一个字写出来，在盲投里的胜率少了一半；苏州大学附属第一医院牵头的五家中国医院，在《英国医学杂志》上发表双盲试验，老年高血压病人手术当天早上停一次某两类降压药，术中低血压明显减少；还有阿姆斯特丹大学的团队用模拟发现，洪水不光让被淹的人家断供，连自家房子没坏、还付得起房贷的人，也会因为邻居家被淹而放弃房子，而且一家接一家地连锁发生。先说第一篇。作者是美国史蒂文斯理工学院的 Zihan Chen、Di Zhu，和麻省大学波士顿分校的 Lei Nico Zheng，
+文字版：https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep085.html
+全部文字版：https://xiaozhua33.github.io/listen-5pmrw7/ai/text/</description>
+    <content:encoded><![CDATA[<p>今天讲三篇，AI、健康、金融各一篇：美国史蒂文斯理工学院和麻省大学波士顿分校的三位学者发现，同一段 AI 回答，一下子整段跳出来，比一个字一个字写出来，在盲投里的胜率少了一半；苏州大学附属第一医院牵头的五家中国医院，在《英国医学杂志》上发表双盲试验，老年高血压病人手术当天早上停一次某两类降压药，术中低血压明显减少；还有阿姆斯特丹大学的团队用模拟发现，洪水不光让被淹的人家断供，连自家房子没坏、还付得起房贷的人，也会因为邻居家被淹而放弃房子，而且一家接一家地连锁发生。先说第一篇。作者是美国史蒂文斯理工学院的 Zihan Chen、Di Zhu，和麻省大学波士顿分校的 Lei Nico Zheng，</p><p>文字版：<a href="https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep085.html">https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep085.html</a></p><p>全部文字版：<a href="https://xiaozhua33.github.io/listen-5pmrw7/ai/text/">https://xiaozhua33.github.io/listen-5pmrw7/ai/text/</a></p>]]></content:encoded>
+    <itunes:summary>今天讲三篇，AI、健康、金融各一篇：美国史蒂文斯理工学院和麻省大学波士顿分校的三位学者发现，同一段 AI 回答，一下子整段跳出来，比一个字一个字写出来，在盲投里的胜率少了一半；苏州大学附属第一医院牵头的五家中国医院，在《英国医学杂志》上发表双盲试验，老年高血压病人手术当天早上停一次某两类降压药，术中低血压明显减少；还有阿姆斯特丹大学的团队用模拟发现，洪水不光让被淹的人家断供，连自家房子没坏、还付得起房贷的人，也会因为邻居家被淹而放弃房子，而且一家接一家地连锁发生。先说第一篇。作者是美国史蒂文斯理工学院的 Zihan Chen、Di Zhu，和麻省大学波士顿分校的 Lei Nico Zheng，</itunes:summary>
+    <enclosure url="https://xiaozhua33.github.io/listen-5pmrw7/ai/episodes/ep085.mp3" length="5561516" type="audio/mpeg"/>
+    <guid isPermaLink="false">ai-ep085</guid>
+    <pubDate>Thu, 26 Nov 2026 22:01:55 -0000</pubDate>
+    <itunes:duration>00:11:35</itunes:duration>
+    <itunes:episode>85</itunes:episode>
+    <itunes:season>2</itunes:season>
+    <podcast:season name="论文速读">2</podcast:season>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>AI 早报 11月26日｜谷歌 Workspace 正式开放 MCP，智能体以后只能走这条路</title>
     <link>https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep084.html</link>
     <description>【第1季 · AI 早报】一句话总结：今天最重要的是，谷歌把 Workspace 的 MCP 服务器正式开放，而且规定以后外部智能体读写 Gmail、云端硬盘和日历，都要走 MCP 这条路。今天讲五件事。第一件，是大公司新产品。11月24日，谷歌宣布 Workspace MCP 服务器和官方命令行工具正式上线。MCP 服务器由谷歌托管，覆盖 Gmail、云端硬盘、文档、表格、幻灯片、日历、Chat 和 Tasks。命令行工具给在终端里跑的智能体用，自带打包好的技能。免费档有公开的调用上限，谷歌说超过百分之九十九的开发者都在免费档里。最值得注意的是一条新规定：AI 智能体必须通过 MCP 访问 Workspace 数据，
