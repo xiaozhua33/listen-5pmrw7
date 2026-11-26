@@ -1229,7 +1229,22 @@
    "old_title": "交易入门 11月27日｜期权集中到期叠加ETF资金外流，英国拟收紧加密平台规则",
    "season": 3,
    "script": "scripts/auto-trade-20261127071044.md"
+  },
+  {
+   "n": 87,
+   "title": "AI 早报 11月27日｜OpenAI 修正计费错误，GPT-6.2 额度会更快用完",
+   "file": "ep087.mp3",
+   "bytes": 1821164,
+   "seconds": 227.616,
+   "ts": 1795732139,
+   "guid": "ai-ep087",
+   "summary": "一句话总结：今天最重要的是，OpenAI 承认 GPT-6.2 上线时把用量算少了，修正之后，同样的活会更快用完套餐额度。今天讲四件事。第一件，是大公司产品的变化。11月26日，负责 Codex 和 ChatGPT 的 Tibo Sottiaux 在 X 上说，11月17日 GPT-6.2 的 Astra 和 Sol 上线时，用量被错误地打了折。现在已经修好，和上周相比，用 Astra 会快百分之四十碰到上限，用 Sol 快百分之二十五。其他模型不受影响，之前多用的部分不补收。作为道歉，Go、Plus、Pro 和 Business 用户每人多一次存起来的额度重置，已经上线。据科技媒体 Blee",
+   "voice": "zh-CN-YunjianNeural",
+   "hook": "OpenAI 修正计费错误，GPT-6.2 额度会更快用完",
+   "old_title": "AI 早报 11月27日｜OpenAI 修正计费错误，GPT-6.2 额度会更快用完",
+   "season": 1,
+   "script": "scripts/auto-ai-20261127072642.md"
   }
  ],
- "max_n": 86
+ "max_n": 87
 }
