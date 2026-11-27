@@ -14,6 +14,23 @@
   <image><url>https://xiaozhua33.github.io/listen-5pmrw7/ai/cover.png</url><title>东京通勤电台</title><link>https://xiaozhua33.github.io/listen-5pmrw7/ai/</link></image>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>论文速读 11月28日｜规则写进文件管不住 AI 编程助手，有一个还因此丢了三分之一的分</title>
+    <link>https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep088.html</link>
+    <description>【第2季 · 论文速读】今天讲三篇：一位美国独立研究者做了预注册实验，发现在代码仓库里放一页规则文件，管不住编程智能体，还让其中一个智能体分数掉了三分之一；开源数据库工具 LibreDB Studio 项目的三位开发者发现，AI 智能体在数据库里闯了祸，损失大小更多取决于数据库能不能撤回，而不只是模型聪不聪明；还有德国波恩大学医院的团队，在癫痫病人脑子里直接记录单个神经元，看到睡觉时大脑会重放刚学的故事内容，但不按故事顺序。先说第一篇。作者是美国新泽西州的独立研究者 Sandeep Dhuri，论文11月20日放上 arXiv，是预印本，没经过同行评审。不过他在开跑之前，就把假设和分析代码登记存档了，也就是预注册，事
+文字版：https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep088.html
+全部文字版：https://xiaozhua33.github.io/listen-5pmrw7/ai/text/</description>
+    <content:encoded><![CDATA[<p>今天讲三篇：一位美国独立研究者做了预注册实验，发现在代码仓库里放一页规则文件，管不住编程智能体，还让其中一个智能体分数掉了三分之一；开源数据库工具 LibreDB Studio 项目的三位开发者发现，AI 智能体在数据库里闯了祸，损失大小更多取决于数据库能不能撤回，而不只是模型聪不聪明；还有德国波恩大学医院的团队，在癫痫病人脑子里直接记录单个神经元，看到睡觉时大脑会重放刚学的故事内容，但不按故事顺序。先说第一篇。作者是美国新泽西州的独立研究者 Sandeep Dhuri，论文11月20日放上 arXiv，是预印本，没经过同行评审。不过他在开跑之前，就把假设和分析代码登记存档了，也就是预注册，事</p><p>文字版：<a href="https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep088.html">https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep088.html</a></p><p>全部文字版：<a href="https://xiaozhua33.github.io/listen-5pmrw7/ai/text/">https://xiaozhua33.github.io/listen-5pmrw7/ai/text/</a></p>]]></content:encoded>
+    <itunes:summary>今天讲三篇：一位美国独立研究者做了预注册实验，发现在代码仓库里放一页规则文件，管不住编程智能体，还让其中一个智能体分数掉了三分之一；开源数据库工具 LibreDB Studio 项目的三位开发者发现，AI 智能体在数据库里闯了祸，损失大小更多取决于数据库能不能撤回，而不只是模型聪不聪明；还有德国波恩大学医院的团队，在癫痫病人脑子里直接记录单个神经元，看到睡觉时大脑会重放刚学的故事内容，但不按故事顺序。先说第一篇。作者是美国新泽西州的独立研究者 Sandeep Dhuri，论文11月20日放上 arXiv，是预印本，没经过同行评审。不过他在开跑之前，就把假设和分析代码登记存档了，也就是预注册，事</itunes:summary>
+    <enclosure url="https://xiaozhua33.github.io/listen-5pmrw7/ai/episodes/ep088.mp3" length="6254060" type="audio/mpeg"/>
+    <guid isPermaLink="false">ai-ep088</guid>
+    <pubDate>Fri, 27 Nov 2026 21:58:33 -0000</pubDate>
+    <itunes:duration>00:13:02</itunes:duration>
+    <itunes:episode>88</itunes:episode>
+    <itunes:season>2</itunes:season>
+    <podcast:season name="论文速读">2</podcast:season>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>AI 早报 11月27日｜OpenAI 修正计费错误，GPT-6.2 额度会更快用完</title>
     <link>https://xiaozhua33.github.io/listen-5pmrw7/ai/text/ep087.html</link>
     <description>【第1季 · AI 早报】一句话总结：今天最重要的是，OpenAI 承认 GPT-6.2 上线时把用量算少了，修正之后，同样的活会更快用完套餐额度。今天讲四件事。第一件，是大公司产品的变化。11月26日，负责 Codex 和 ChatGPT 的 Tibo Sottiaux 在 X 上说，11月17日 GPT-6.2 的 Astra 和 Sol 上线时，用量被错误地打了折。现在已经修好，和上周相比，用 Astra 会快百分之四十碰到上限，用 Sol 快百分之二十五。其他模型不受影响，之前多用的部分不补收。作为道歉，Go、Plus、Pro 和 Business 用户每人多一次存起来的额度重置，已经上线。据科技媒体 Blee
